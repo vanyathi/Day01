@@ -1,1 +1,2 @@
-echo "who_am_i.sh"
+#!/bin/bash
+who am i
