@@ -1,2 +1,3 @@
-"wc"
+#!/bin/bash
+wc * .
 
