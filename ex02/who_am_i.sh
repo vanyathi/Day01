@@ -1,2 +1,1 @@
-#!/bin/bash
-who am i
+vanyathi ttys000  Jul  9 10:00
