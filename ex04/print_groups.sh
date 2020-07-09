@@ -1,1 +1,3 @@
-FT_USER
+#!/bin/bash
+ls -l /etc/group | tr " " ,
+
